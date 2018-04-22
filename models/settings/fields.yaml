@@ -1,0 +1,22 @@
+tabs:
+    fields:
+        credentials:
+            span: full
+            path: $/gency/slack/models/settings/_credentials.htm
+            type: partial
+            tab: 'gency.slack::lang.labels.basic_information'
+        client_id:
+            label: 'gency.slack::lang.settings.client_id'
+            span: left
+            type: text
+            tab: 'gency.slack::lang.labels.basic_information'
+        client_secret:
+            label: 'gency.slack::lang.settings.client_secret'
+            span: left
+            type: text
+            tab: 'gency.slack::lang.labels.basic_information'
+        verification_token:
+            label: 'gency.slack::lang.settings.verification_token'
+            span: left
+            type: text
+            tab: 'gency.slack::lang.labels.basic_information'

@@ -1,0 +1,16 @@
+{
+    "name": "gency/oc-slack-plugin",
+    "type": "october-plugin",
+    "description": "Slack plugin for October CMS",
+    "license": "UNLICENSED",
+    "authors": [],
+    "require": {
+        "php": ">=5.5.9",
+        "composer/installers": "~1.0",
+        "predis/predis": "^1.1",
+        "clue/block-react": "^1.2",
+        "clue/redis-react": "^0.5",
+        "coderstephen/slack-client": "^0.3.0"
+    },
+    "minimum-stability": "dev"
+}

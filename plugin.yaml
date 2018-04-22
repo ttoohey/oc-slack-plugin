@@ -1,0 +1,6 @@
+plugin:
+    name: 'gency.slack::lang.plugin.name'
+    description: 'gency.slack::lang.plugin.description'
+    author: 'Gency <hello@gency.com.au>'
+    icon: oc-icon-home
+    homepage: ''
