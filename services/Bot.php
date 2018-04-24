@@ -1,6 +1,6 @@
 <?php namespace Gency\Slack\Services;
 
-use Redis;
+use Illuminate\Support\Facades\Redis;
 
 class Bot
 {
